@@ -1,7 +1,7 @@
 # boto3 AWS
 
 
-# Delete_default_vpc.py:
+# Delete_default_vpc.py
 
 This script will be presenting all your "default" VPC's regarding your "profile" (line 254)
 
